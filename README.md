@@ -1,3 +1,5 @@
+Contact-Manager web app - allows you to add new contacts and save them in your contact lists which you can view later on!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
