@@ -3,6 +3,7 @@ import './App.css';
 import Header from './components/Header';
 import AddContact from './components/AddContact';
 import ContactList from './components/ContactList';
+// import ContactCard from "./components/ContactCard";
 
 function App() {
 
@@ -26,6 +27,7 @@ function App() {
           <Header/>
           <AddContact/>
           <ContactList contacts={contacts}/>
+          {/*<ContactCard/>*/}
         </div>
       </>
   );
